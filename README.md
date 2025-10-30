@@ -8,3 +8,8 @@
  - Nextcloud
  - Nginx
  - SSH para administracion remota
+
+## Pasos de Implementación
+1. **Instalacion de Docker y Docker Compose**
+  ```bash
+  sudo apt update && sudo apt install docker docker-compose -y
